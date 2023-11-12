@@ -11,7 +11,7 @@ body {
 }
 .calculator {
     width: 300px;
-    margin: 0 auto;
+    margin: 50px auto;
     background-color: #fff;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -23,7 +23,7 @@ input[type="text"] {
     padding: 10px;
     margin: 5px 0;
 }
-.buttons {
+.keys {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
