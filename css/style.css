@@ -9,6 +9,10 @@ body {
     font-family: Arial, sans-serif;
     background-color: peachpuff;
 }
+.name{
+    text-align:center;
+    padding: 30px;
+}
 .calculator {
     width: 300px;
     margin: 50px auto;
